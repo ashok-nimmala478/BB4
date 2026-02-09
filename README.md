@@ -4,7 +4,7 @@
 A deep learning–based framework for automated disease classification from high-resolution 3D medical images using Transformer-Aware Cyclic Augmentation with a ResNet3D-50 backbone.
 
 ---
-## Team Info
+## 👥 Team Information
 ### Nimmala Ashok
 - **LinkedIn**: https://www.linkedin.com/in/ashok-nimmala-542116282/
 - **Role & Contribution:** Project lead and primary contributor. Responsible for overall system design, implementation of the TransAugNet framework, ResNet3D-50 model training, experimentation with augmentation strategies, and performance evaluation on biomedical datasets
@@ -22,8 +22,8 @@ A deep learning–based framework for automated disease classification from high
 
 ---
 
-## Abstract
-xxxxxxxxxx
+## 📌 Abstract
+Accurate identification of diseases from medical images is critical for early diagnosis and effective treatment. Manual interpretation of high-resolution 3D medical images is time-consuming and prone to variability among clinicians.This project proposes TransAugNet, a deep learning framework based on a ResNet3D-50 architecture for automated disease classification from volumetric medical images. The model converts 3D image volumes into stacked 2D slices, enabling efficient feature extraction and improved disease classification accuracy. Experimental results demonstrate faster response time and reliable performance compared to traditional medical image analysis approaches.
 
 ---
 
