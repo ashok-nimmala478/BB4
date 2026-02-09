@@ -1,6 +1,9 @@
 
 # 🩺 TransAugNet: Transformer-Aware Cyclic Augmentation for Biomedical Image Analysis
 
+A deep learning–based framework for automated disease classification from high-resolution 3D medical images using Transformer-Aware Cyclic Augmentation with a ResNet3D-50 backbone.
+
+---
 ## Team Info
 - 22471A05B2 — **Nimmala Ashok** ( [LinkedIn](https://www.linkedin.com/in/ashok-nimmala-542116282/) )
 Role & Contribution: xxxxxxxxxx_
