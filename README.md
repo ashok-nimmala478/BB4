@@ -5,8 +5,9 @@ A deep learning–based framework for automated disease classification from high
 
 ---
 ## Team Info
-- 22471A05B2 — **Nimmala Ashok** ( [LinkedIn](https://www.linkedin.com/in/ashok-nimmala-542116282/) )
-Role & Contribution: xxxxxxxxxx_
+###**Nimmala Ashok** 
+- LinkedIn: https://www.linkedin.com/in/ashok-nimmala-542116282/
+- **Role & Contribution:** Project lead and primary contributor. Responsible for overall system design, implementation of the TransAugNet framework, ResNet3D-50 model training, experimentation with augmentation strategies, and performance evaluation on biomedical datasets
 
 - 22471A0582 — **Chenna Reddy Sudheer Reddy** ( [LinkedIn](https://www.linkedin.com/in/sudheer-reddy-chenna-reddy-768b44279/) )
 _Work Done: xxxxxxxxxx_
