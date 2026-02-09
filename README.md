@@ -2,17 +2,15 @@
 # 🩺 TransAugNet: Transformer-Aware Cyclic Augmentation for Biomedical Image Analysis
 
 ## Team Info
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05B2 — **Nimmala Ashok** ( [LinkedIn](https://www.linkedin.com/in/ashok-nimmala-542116282/) )
+Role & Contribution: xxxxxxxxxx_
+
+- 22471A0582 — **Chenna Reddy Sudheer Reddy** ( [LinkedIn](https://www.linkedin.com/in/sudheer-reddy-chenna-reddy-768b44279/) )
 _Work Done: xxxxxxxxxx_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A05D9 — **Yamarthy Venkata Krishna** ( [LinkedIn](https://www.linkedin.com/in/yamarthy-venakta-krishna-b9b28328b/) )
 _Work Done: xxxxxxxxxx_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
-
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
 
 ---
 
