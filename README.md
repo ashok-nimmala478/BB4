@@ -1,5 +1,5 @@
 
-# Team Number – Project Title
+# 🩺 TransAugNet: Transformer-Aware Cyclic Augmentation for Biomedical Image Analysis
 
 ## Team Info
 - 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
