@@ -28,9 +28,9 @@ Accurate identification of diseases from medical images is critical for early di
 ---
 
 ## Paper Reference (Inspiration)
-👉 **[Paper Title xxxxxxxxxx
+👉 **[Paper Title CyclicAugment: Optimized Medical Image Analysis via Adaptive Augmentation Intensity
   – Author Names xxxxxxxxxx
- ](Paper URL here)**
+ ](https://ieeexplore.ieee.org/document/11005973)**
 Original conference/IEEE paper used as inspiration for the model.
 
 ---
